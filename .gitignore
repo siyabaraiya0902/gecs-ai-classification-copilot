@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+.env
+.DS_Store
+feedback_log.csv
+.ipynb_checkpoints/
+models/

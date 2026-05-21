@@ -1,0 +1,596 @@
+code,name,level
+1011001001,Pesticide and Agrichemical Manufacturer,Activity
+10110010,Agricultural Inputs,Industry
+1011001002,Anhydrous Ammonia Manufacturer,Activity
+1011001003,Agricultural Input Distributor,Activity
+1011001004,Fertilizer Manufacturer,Activity
+1011001005,Nitric Acid Manufacturer,Activity
+1012001001,Lime and Plaster Manufacturer,Activity
+10120010,Building Materials,Industry
+1012001002,Concrete Products for Construction Manufacturer,Activity
+1012001003,Ready mix Concrete Manufacturer,Activity
+1012001004,Building Materials Distributor,Activity
+1012001005,Glass Manufacturer,Activity
+1012001006,Cement Manufacturer,Activity
+1012001099,Other Building Materials Manufacturer,Activity
+1013001001,Basic Chemicals Distributor,Activity
+10130010,Chemicals,Industry
+1013001002,Organic Basic Chemicals Manufacturer,Activity
+1013001003,Soda Ash Manufacturer,Activity
+1013001004,Chlorine Manufacturer,Activity
+1013001099,Other Chemical Products Manufacturer,Activity
+1013002001,Specialty Chemicals Distributor,Activity
+10130020,Specialty Chemicals,Industry
+1013002002,Explosives Manufacturer,Activity
+1013002003,Glue and Adhesives Manufacturer,Activity
+1013002004,Coatings Manufacturer,Activity
+1013002005,"Enzymes, Nutritional Ingredients, and Catalyzers Manufacturer",Activity
+1013002006,Industrial Gases Manufacturer,Activity
+1013002007,Primary Rubber Manufacturer,Activity
+1013002008,Hydrogen Manufacturer,Activity
+1013002009,Carbon Black Manufacturer,Activity
+1013002010,Primary Plastic Manufacturer,Activity
+1013002011,Biogas and Biofuel Manufacturer,Activity
+1014001001,Lumber Production,Activity
+10140010,Lumber & Wood Production,Industry
+1014001002,Wood Product Manufacturer,Activity
+1014001003,Lumber Distributor,Activity
+1014001004,Veneer Sheets Manufacturer,Activity
+1014001005,Afforestation,Activity
+1014001006,Forestry Rehabilitation and Restoration,Activity
+1014001007,Existing Forest Management,Activity
+1014001008,Forest Conservation,Activity
+1014001009,Wetlands Restoration,Activity
+1014002001,Paper Manufacturer,Activity
+10140020,Paper & Paper Products,Industry
+1014002002,Pulp Manufacturer,Activity
+1014002003,Pulp or Paper Distributor,Activity
+1015001001,Aluminum Manufacturer,Activity
+10150010,Aluminum,Industry
+1015001002,Aluminum Distributor,Activity
+1015002001,Copper Mining,Activity
+10150020,Copper,Industry
+1015002002,Copper Distributor,Activity
+1015002003,Royalties from Copper Mines,Activity
+1015003001,Industrial Metal Mining,Activity
+10150030,Other Industrial Metals & Mining,Industry
+1015003002,Royalties from Industrial Metal Mines,Activity
+1015003003,Industrial Metal Distributor,Activity
+1015003099,Other Mining and Quarrying Support Activities,Activity
+1015004001,Gold Mining,Activity
+10150040,Gold,Industry
+1015004002,Royalties from Gold Mines,Activity
+1015005001,Silver Mining,Activity
+10150050,Silver,Industry
+1015005002,Royalties from Silver Mines,Activity
+1015006001,Precious Metal Production,Activity
+10150060,Other Precious Metals & Mining,Industry
+1015006002,Royalties from Precious Metal Mines,Activity
+1016001001,Coking Coal Mining,Activity
+10160010,Coking Coal,Industry
+1016002001,Iron Mining,Activity
+10160020,Steel,Industry
+1016002002,Royalties from Iron Mines,Activity
+1016002003,Iron and Steel Manufacturer,Activity
+1016002004,Iron and Steel Distributor,Activity
+1020001001,Automotive Dealer,Activity
+10200010,Auto & Truck Dealerships,Industry
+1020001002,Automotive Service Center,Activity
+1020002001,Automotive Engine Manufacturer,Activity
+10200020,Auto Manufacturers,Industry
+1020002002,Motorcycle Manufacturer,Activity
+1020002003,Passenger Car and Commercial Vehicle Manufacturer,Activity
+1020002004,Low Carbon Technology Light Duty Vehicle Manufacturer,Activity
+1020003001,Tire Manufacturer,Activity
+10200030,Auto Parts,Industry
+1020003002,Automotive Parts and Accessories Retailer,Activity
+1020003003,Automotive Parts Manufacturer,Activity
+1020003004,Automotive Batteries Manufacturer,Activity
+1020004001,Snowmobile Manufacturer,Activity
+10200040,Recreational Vehicles,Industry
+1020004002,Marine Vehicle Manufacturer,Activity
+1020004003,Electric Recreational Vehicle Manufacturer,Activity
+1020004099,Other Recreational Vehicle Manufacturer,Activity
+1022001001,Electric Household Appliances Manufacturer,Activity
+10220010,"Furnishings, Fixtures & Appliances",Industry
+1022001002,Non Electric Household Appliances Manufacturer,Activity
+1022001003,Kitchen Furniture Manufacturer,Activity
+1022001004,Mattress Manufacturer,Activity
+1022001005,"Furniture, Fixtures and Appliances Distributor",Activity
+1022001006,Furniture Manufacturer,Activity
+1022001007,Lighting fixtures Manufacturer,Activity
+1023001001,Construction of Residential Buildings,Activity
+10230010,Residential Construction,Industry
+1023001002,Renovation of Residential Buildings,Activity
+1024001001,Textiles Finishings Services,Activity
+10240010,Textile Manufacturing,Industry
+1024001002,Textiles Distributor,Activity
+1024001003,Natural Fiber Textiles Manufacturer,Activity
+1024001099,Other Textiles Manufacturer,Activity
+1024002001,Garment Manufacturer,Activity
+10240020,Apparel Manufacturing,Industry
+1024002002,Apparel Components Manufacturer,Activity
+1024002003,Apparel Distributor,Activity
+1024003001,Footwear Manufacturer,Activity
+10240030,Footwear & Accessories,Industry
+1024003002,Footwear and Accessories Distributor,Activity
+1024003003,Accessories Manufacturer,Activity
+1025001001,Metal Container Manufacturer,Activity
+10250010,Packaging & Containers,Industry
+1025001002,Glass Container Manufacturer,Activity
+1025001003,Wooden Container Manufacturer,Activity
+1025001004,Plastic Packaging Manufacturer,Activity
+1025001005,Paper Packaging Manufacturer,Activity
+1025001099,Other Containers and Packaging Manufacturer,Activity
+1026001001,Personal Legal Services,Activity
+10260010,Personal Services,Industry
+1026001002,Personalized Services,Activity
+1027001001,Restaurants,Activity
+10270010,Restaurants,Industry
+1028001001,Apparel Retail,Activity
+10280010,Apparel Retail,Industry
+1028002001,Department Stores,Activity
+10280020,Department Stores,Industry
+1028003001,Hardware and Building Material Retailer,Activity
+10280030,Home Improvement Retail,Industry
+1028003002,Floor and Wall Coverings Retailer,Activity
+1028003099,Other Home Improvement Products Retailer,Activity
+1028004001,Luxury Goods,Activity
+10280040,Luxury Goods,Industry
+1028005001,Internet Food Delivery Platform,Activity
+10280050,Internet Retail,Industry
+1028005002,Internet Retail Platform,Activity
+1028006001,Gas Station,Activity
+10280060,Specialty Retail,Industry
+1028006002,Charging Station,Activity
+1028006003,"Books, Newspaper and Stationery Retailer",Activity
+1028006004,Sporting Goods Retailer,Activity
+1028006005,Cosmetic and Toiletries Retailer,Activity
+1028006006,Catalog Retailer,Activity
+1028006007,Games and Toys Retailer,Activity
+1028006008,Electronic Good Retailer,Activity
+1028006009,Furniture Retailer,Activity
+1028006099,Other Specialized Retailer,Activity
+1029001001,Gambling Activities,Activity
+10290010,Gambling,Industry
+1029001002,Gambling Products,Activity
+1029002001,Recreational Products Manufacturer,Activity
+10290020,Leisure,Industry
+1029002002,Fitness Club and Facilities Operator,Activity
+1029002003,Cruise Line,Activity
+1029002099,Other Leisure Facilities,Activity
+1029003001,Lodging,Activity
+10290030,Lodging,Industry
+1029004001,Resorts,Activity
+10290040,Resorts & Casinos,Industry
+1029004002,Casinos,Activity
+1029005001,Travel Agency,Activity
+10290050,Travel Services,Industry
+1029005002,Tour Operator,Activity
+1031001001,Diversified Fund,Activity
+10310010,Asset Management,Industry
+1031001002,Investment Management,Activity
+1031001003,Wealth Management,Activity
+1031001004,Private Equity,Activity
+1031001005,Custodian Operations,Activity
+1031001099,Other Asset Management Services,Activity
+1032001001,International Retail Banking,Activity
+10320010,Banks - Diversified,Industry
+1032001002,International Wholesale Banking,Activity
+1032001003,Community Development Bank,Activity
+1032001004,International Financial Institution,Activity
+1032001005,National Development Bank,Activity
+1032001006,Multilateral Development Bank,Activity
+1032001007,Export Credit Agency,Activity
+1032001099,Other International Banking Activities,Activity
+1032002001,Regional Retail Banking,Activity
+10320020,Banks - Regional,Industry
+1032002002,Regional Wholesale Banking,Activity
+1032002099,Other Regional Banking Activities,Activity
+1032003001,Mortgage Finance,Activity
+10320030,Mortgage Finance,Industry
+1032003002,Building Societies,Activity
+1033001001,Investment Banking,Activity
+10330010,Capital Markets,Industry
+1033001002,Brokerage Services,Activity
+1033002001,Financial Exchanges,Activity
+10330020,Financial Data & Stock Exchanges,Industry
+1033002002,Credit Rating and Reporting,Activity
+1033002003,Financial Data and Research,Activity
+1034001001,Life Insurance Provider,Activity
+10340010,Insurance - Life,Industry
+1034001002,Health Insurance Provider,Activity
+1034002001,Non-Life Insurance Provider,Activity
+10340020,Insurance - Property & Casualty,Industry
+1034002002,Automotive Insurance Provider,Activity
+1034002003,Commercial Business Insurance Provider,Activity
+1034002004,Home Insurance Provider,Activity
+1034003001,Insurance - Reinsurance,Activity
+10340030,Insurance - Reinsurance,Industry
+1034004001,Mortgage Insurance Provider,Activity
+10340040,Insurance - Specialty,Industry
+1034004002,Travel Insurance Provider,Activity
+1034004099,Other Specialty Insurance Provider,Activity
+1034005001,Insurance Brokers,Activity
+10340050,Insurance Brokers,Industry
+1034006001,Insurance - Diversified,Activity
+10340060,Insurance - Diversified,Industry
+1035001001,Shell Companies,Activity
+10350010,Shell Companies,Industry
+1035002001,Financial Conglomerates,Activity
+10350020,Financial Conglomerates,Industry
+1035002002,Holding Companies,Activity
+1036001001,Credit Provider,Activity
+10360010,Credit Services,Industry
+1036001002,Collection Agencies,Activity
+1036001003,Credit Evaluation,Activity
+1041001001,Development of Residential Buildings,Activity
+10410010,Real Estate - Development,Industry
+1041001002,Development of Non Residential Buildings,Activity
+1041002001,Acquisition and Ownership of Buildings,Activity
+10410020,Real Estate Services,Industry
+1041002002,Property Management,Activity
+1041002003,"Real Estate Agent, Advisory and Solutions Provider",Activity
+1041003001,Real Estate - Diversified,Activity
+10410030,Real Estate - Diversified,Industry
+1042001001,REIT - Hospital,Activity
+10420010,REIT - Healthcare Facilities,Industry
+1042001099,REIT - Long Term Care and Other Facilities,Activity
+1042002001,REIT - Hotel & Motel,Activity
+10420020,REIT - Hotel & Motel,Industry
+1042003001,REIT - Industrial,Activity
+10420030,REIT - Industrial,Industry
+1042004001,REIT - Office,Activity
+10420040,REIT - Office,Industry
+1042005001,REIT - Apartment,Activity
+10420050,REIT - Residential,Industry
+1042005002,REIT - Single Family,Activity
+1042006001,REIT - Mall,Activity
+10420060,REIT - Retail,Industry
+1042006002,REIT - Shopping Center,Activity
+1042007001,REIT - Mortgage,Activity
+10420070,REIT - Mortgage,Industry
+1042008001,REIT - Advertising,Activity
+10420080,REIT - Specialty,Industry
+1042008002,REIT - Telecom Tower,Activity
+1042008003,REIT - Timberland,Activity
+1042008099,Other Specialty REIT,Activity
+1042009001,REIT - Diversified,Activity
+10420090,REIT - Diversified,Industry
+2051001001,Beverages - Brewers,Activity
+20510010,Beverages - Brewers,Industry
+2051002001,Wine Producer,Activity
+20510020,Beverages - Wineries & Distilleries,Industry
+2051002002,Liquor Producer,Activity
+2052001001,Carbonated Drink Producer,Activity
+20520010,Beverages - Non-Alcoholic,Industry
+2052001002,Non-Carbonated Drinks Producer,Activity
+2052501001,Raw Sugar Manufacturer,Activity
+20525010,Confectioners,Industry
+2052501002,Chocolate Manufacturer,Activity
+2052501099,Other Confectionery Products Manufacturer,Activity
+2052502001,Growing of Perennial Crops,Activity
+20525020,Farm Products,Industry
+2052502002,Growing of Non-Perennial Crops,Activity
+2052502003,Livestock Producer,Activity
+2052502004,Aquaculture,Activity
+2052503001,Household Goods Manufacturer,Activity
+20525030,Household & Personal Products,Industry
+2052503002,Personal Goods Manufacturer,Activity
+2052504001,Packaged or Frozen Food Manufacturer,Activity
+20525040,Packaged Foods,Industry
+2052504002,Health Supplement Manufacturer,Activity
+2052504003,Dairy Product Manufacturer,Activity
+2054001001,Educational Services (Business to Consumer),Activity
+20540010,Education & Training Services,Industry
+2054001002,Training Services (Business to Business),Activity
+2055001001,Discount Stores,Activity
+20550010,Discount Stores,Industry
+2055002001,Food Distribution,Activity
+20550020,Food Distribution,Industry
+2055003001,Grocery Stores,Activity
+20550030,Grocery Stores,Industry
+2056001001,Tobacco Products Manufacturer,Activity
+20560010,Tobacco,Industry
+2056001002,Wholesale or Retail of Tobacco and Tobacco Products,Activity
+2061001001,Research and Development of Rare Diseases,Activity
+20610010,Biotechnology,Industry
+2061001002,Diversified Biotechnology,Activity
+2061001003,Ribonucleic Acid (RNA) Therapy,Activity
+2061001004,Gene Editing Therapy,Activity
+2062001001,Drug Manufacturers - General,Activity
+20620010,Drug Manufacturers - General,Industry
+2062002001,Drug Manufacturers - Specialty & Generic,Activity
+20620020,Drug Manufacturers - Specialty & Generic,Industry
+2063001001,Healthcare Plans,Activity
+20630010,Healthcare Plans,Industry
+2064501001,Hospital Inpatient Services,Activity
+20645010,Medical Care Facilities,Industry
+2064501002,Healthcare Facility Ancillary Services,Activity
+2064501003,Long-Term Care Center,Activity
+2064501004,Outpatient Services,Activity
+2064502001,Pharmaceutical Retailer,Activity
+20645020,Pharmaceutical Retailers,Industry
+2064503001,Decision and Risk Analysis,Activity
+20645030,Health Information Services,Industry
+2064503002,Enterprise Systems,Activity
+2064503003,Medical Records Systems,Activity
+2064503004,Outcome Management,Activity
+2064503099,Other Healthcare Technology Systems,Activity
+2065001001,Diagnostic and Testing Equipment,Activity
+20650010,Medical Devices,Industry
+2065001002,Medical Devices,Activity
+2065002001,Dental Instrument Manufacturer,Activity
+20650020,Medical Instruments & Supplies,Industry
+2065002002,Medical Tools and Equipment Manufacturer,Activity
+2065002003,Ophthalmic Goods Manufacturer,Activity
+2066001001,Testing and Diagnosis Center,Activity
+20660010,Diagnostics & Research,Industry
+2066001002,Medical Contract Research Services,Activity
+2067001001,Medical Devices and Instruments Distributor,Activity
+20670010,Medical Distribution,Industry
+2067001002,Drug Distributor,Activity
+2067001099,Other Healthcare Products Distributor,Activity
+2071001001,"Cogeneration of Heating, Cooling, and Power - Gas",Activity
+20710010,Utilities - Independent Power Producers,Industry
+2071001002,Heating and Cooling Producers - Gas,Activity
+2071001003,Heating and Cooling Producers - Waste Heat,Activity
+2071001004,District Heating and Cooling Distributors,Activity
+2071002001,Electricity Generator - Solar Photovoltaic Technology,Activity
+20710020,Utilities - Renewable,Industry
+2071002002,Electricity Generator - Concentrated Solar Power (CSP) Technology,Activity
+2071002003,Electricity Generator - Wind Power,Activity
+2071002004,Electricity Generator - Ocean Energy Technologies,Activity
+2071002005,Electricity Generator - Hydropower,Activity
+2071002006,Electricity Generator - Geothermal Energy,Activity
+2071002007,Electricity Generator - Bioenergy,Activity
+2071002008,Electricity Generator - Renewable Non-Fossil Gaseous and Liquid Fuels,Activity
+2071002009,Thermal Energy Storage,Activity
+2071002010,"Cogeneration of Heating, Cooling, and Power - Solar Energy",Activity
+2071002011,"Cogeneration of Heating, Cooling, and Power - Geothermal Energy",Activity
+2071002012,"Cogeneration of Heating, Cooling, and Power - Bioenergy",Activity
+2071002013,"Cogeneration of Heating, Cooling, and Power - Renewable Non-Fossil Gaseous an...",Activity
+2071002014,Heating and Cooling Producers - Solar Thermal Heating,Activity
+2071002015,Heating and Cooling Producers - Geothermal,Activity
+2071002016,Heating and Cooling Producers - Bioenergy,Activity
+2071002017,Heating and Cooling Producers - Renewable Non-Fossil Gaseous and Liquid Fuels,Activity
+2072001001,"Water Collection, Treatment and Supplier",Activity
+20720010,Utilities - Regulated Water,Industry
+2072001002,"Waste Water Collection, Treatment and Supplier",Activity
+2072001003,"Water Collection, Treatment and Supplier - Renewal",Activity
+2072001004,"Waste Water Collection, Treatment and Supplier - Renewal",Activity
+2072002001,Electricity Generator - Gas,Activity
+20720020,Utilities - Regulated Electric,Industry
+2072002002,Electricity Generator - Coal,Activity
+2072002003,Electricity Generator - Oil,Activity
+2072002004,Electricity Generator - Nuclear,Activity
+2072002005,Electricity Generator - Other Non Renewable Sources,Activity
+2072002006,Electricity Transmission and Distributor,Activity
+2072002007,Electricity Storage,Activity
+2072003001,Hydrogen Storage,Activity
+20720030,Utilities - Regulated Gas,Industry
+2072003002,Renewable and Low-Carbon Gases Transmission and Distributor,Activity
+2072003003,Non-Renewable Gases Transmission and Distributor,Activity
+2072004001,Utilities - Diversified,Activity
+20720040,Utilities - Diversified,Industry
+3081001001,Telecom Service Provider,Activity
+30810010,Telecom Services,Industry
+3081001002,Internet Service Provider,Activity
+3082001001,Advertising,Activity
+30820010,Advertising Agencies,Industry
+3082001002,Internet Advertising,Activity
+3082001003,Marketing Agencies,Activity
+3082002001,Print Media,Activity
+30820020,Publishing,Industry
+3082002002,Electronic Media,Activity
+3082003001,Television Broadcasting,Activity
+30820030,Broadcasting,Industry
+3082003002,Radio Broadcasting,Activity
+3082004001,Television and Film Production and Distributor,Activity
+30820040,Entertainment,Industry
+3082004002,Theater,Activity
+3082004003,Theme Park,Activity
+3082004004,Sports Team,Activity
+3082004005,Sound Recorder and Publisher,Activity
+3082004006,Cable Service Provider,Activity
+3082004007,Subscription Based Television Provider,Activity
+3083001001,Social Content Provider,Activity
+30830010,Internet Content & Information,Industry
+3083001002,Internet Navigation and Information Services,Activity
+3083002001,Electronic Gaming & Multimedia,Activity
+30830020,Electronic Gaming & Multimedia,Industry
+3091001001,Onshore Oil and Gas Drilling,Activity
+30910010,Oil & Gas Drilling,Industry
+3091001002,Offshore Oil and Gas Drilling,Activity
+3091002001,Oil Exploration and Production,Activity
+30910020,Oil & Gas E&P,Industry
+3091002002,Gas Exploration and Production,Activity
+3091003001,Oil & Gas Integrated,Activity
+30910030,Oil & Gas Integrated,Industry
+3091004001,Oil and Gas Storage,Activity
+30910040,Oil & Gas Midstream,Industry
+3091004002,Oil and Gas Transportation,Activity
+3091004003,CO2 Transportation,Activity
+3091004004,Underground Permanent Geological Storage of CO2,Activity
+3091004005,Royalties from Oil and Gas,Activity
+3091005001,Oil and Gas Refining,Activity
+30910050,Oil & Gas Refining & Marketing,Industry
+3091005002,Oil and Gas Marketing and Distribution,Activity
+3091006001,Oilfield Equipment,Activity
+30910060,Oil & Gas Equipment & Services,Industry
+3091006002,Oil and Gas Support Services,Activity
+3092001001,Thermal Coal,Activity
+30920010,Thermal Coal,Industry
+3092002001,Uranium,Activity
+30920020,Uranium,Industry
+3101001001,Weapons and Ammunition Manufacturer,Activity
+31010010,Aerospace & Defense,Industry
+3101001002,Ship and Marine Equipment Manufacturer,Activity
+3101001003,Retrofitting of Inland Water Transport,Activity
+3101001004,Retrofitting of Sea and Coastal Water Transport,Activity
+3101001005,Air and Spacecraft Manufacturer,Activity
+3101001006,Defense Services,Activity
+3102001001,Printing Services,Activity
+31020010,Specialty Business Services,Industry
+3102001002,Storage Provider,Activity
+3102001003,Leasing or Licensing of Intellectual Property,Activity
+3102001004,"Accounting, Audit and Tax Services",Activity
+3102001005,Business Legal Services,Activity
+3102001099,Business Support Services,Activity
+3102002001,Consulting Services,Activity
+31020020,Consulting Services,Industry
+3102002002,"Close to Market Research, Development and Innovation",Activity
+3102003001,Rental and Leasing of Transport Equipment,Activity
+31020030,Rental & Leasing Services,Industry
+3102003002,Rental and Leasing of Machinery and Equipment,Activity
+3102003003,Rental and Leasing of Medical Equipment,Activity
+3102003004,Rental and Leasing of Cars and Trucks,Activity
+3102003005,Rental and Leasing of Aircrafts,Activity
+3102003099,Rental and Leasing of Other Equipment,Activity
+3102004001,Security Services Provider,Activity
+31020040,Security & Protection Services,Industry
+3102004002,Correction Facility,Activity
+3102004003,Immigration Detention,Activity
+3102005001,Permanent Staffing Services,Activity
+31020050,Staffing & Employment Services,Industry
+3102005002,Temporary Staffing Services,Activity
+3103001001,Conglomerates,Activity
+31030010,Conglomerates,Industry
+3104001001,Engineering Services,Activity
+31040010,Engineering & Construction,Industry
+3104001002,Construction of Non Residential Buildings,Activity
+3104001003,Renovation of Non Residential Buildings,Activity
+3104001004,Infrastructure Enabling Low-Carbon Water Transportation,Activity
+3104001005,Infrastructure Enabling Low-Carbon Road Transportation,Activity
+3104001006,Infrastructure for Rail Transport Constructors,Activity
+3104001007,Infrastructure Enabling Low-Carbon Airport,Activity
+3104001008,Infrastructure for Personal Mobility and Cycle Logistics,Activity
+3104001009,Charging Stations for Electric Vehicles in Buildings Service Providers,Activity
+3104001010,Professional Services Related to Energy Performance of Buildings,Activity
+3104001099,Other Engineering Projects,Activity
+3104002001,"Highway, Streets, and Roads Infrastructure Services",Activity
+31040020,Infrastructure Operations,Industry
+3104002002,Parking Services,Activity
+3104003001,Energy Efficiency Equipment for Buildings Manufacturer,Activity
+31040030,Building Products & Equipment,Industry
+3104003002,Energy Efficiency Equipment Services,Activity
+3104003003,Instruments and Devices for Measuring Energy Performance of Buildings,Activity
+3104003004,"Heating, Ventilation, and Air Conditioning (HVAC) Manufacturer",Activity
+3104003005,Security and Protection Device Manufacturer,Activity
+3104003099,Other Building Products and Equipment,Activity
+3105001001,Construction Equipment Manufacturer,Activity
+31050010,Farm & Heavy Construction Machinery,Industry
+3105001002,Mining Equipment Manufacturer,Activity
+3105001003,Truck Manufacturer,Activity
+3105001004,Low Carbon Technology Heavy Duty Vehicle Manufacturer,Activity
+3105001005,Agricultural Machinery Manufacturer,Activity
+3106001001,Machinery and Equipment Distributor,Activity
+31060010,Industrial Distribution,Industry
+3106001002,Building Products Distributor,Activity
+3107001001,Stationery Products Manufacturer,Activity
+31070010,Business Equipment & Supplies,Industry
+3107001002,Office Equipment Manufacturer,Activity
+3107002001,Machines Parts Manufacturer,Activity
+31070020,Specialty Industrial Machinery,Industry
+3107002002,Textile and Apparel Machinery Manufacturer,Activity
+3107002003,Food Processing Machinery Manufacturer,Activity
+3107002004,Natural Gas Energy Equipment Manufacturer,Activity
+3107002005,Nuclear Energy Equipment Manufacturer,Activity
+3107002006,Hydrogen Equipment Manufacturer,Activity
+3107002007,Renewable Energy Technologies Manufacturer,Activity
+3107002008,Renewable Energy Technologies Services,Activity
+3107002098,Heavy Industrial Machinery Manufacturer,Activity
+3107002099,Other Low Carbon Technologies Manufacturer,Activity
+3107003001,Metal Fabrication,Activity
+31070030,Metal Fabrication,Industry
+3107004001,Waste Recycling Machinery Manufacturer,Activity
+31070040,Pollution & Treatment Controls,Industry
+3107004002,Water Purification Systems Manufacturer,Activity
+3107004003,Air Filtration Systems Manufacturer,Activity
+3107004004,"Research, Development and Innovation for Direct Air Capture of CO2",Activity
+3107005001,Tools & Accessories,Activity
+31070050,Tools & Accessories,Industry
+3107006001,Electric and Optical Cable Manufacturer,Activity
+31070060,Electrical Equipment & Parts,Industry
+3107006002,Wiring Devices Manufacturer,Activity
+3107006003,Electrical Transformer Manufacturer,Activity
+3107006004,Batteries Manufacturer,Activity
+3107006005,Electric Heat Pumps Services,Activity
+3107006099,Other Electrical Equipment Manufacturer,Activity
+3108001001,Airport Support Services,Activity
+31080010,Airports & Air Services,Industry
+3108001002,Helicopters and Charter Services,Activity
+3108001099,Other Airline Services,Activity
+3108002001,Passenger Air Transportation,Activity
+31080020,Airlines,Industry
+3108002002,Freight Air Transportation,Activity
+3108003001,Passenger Interurban Rail Transportation,Activity
+31080030,Railroads,Industry
+3108003002,Freight Rail Transportation,Activity
+3108003003,Railway Locomotives and Equipment Manufacturer,Activity
+3108003004,Transportation by Personal Mobility Devices,Activity
+3108003005,Operation of Urban and Suburban Road Passenger Transport,Activity
+3108003006,"Transportation by Motorbikes, Passenger Cars, and Light Commercial Vehicles",Activity
+3108004001,Inland Passenger Water Transportation,Activity
+31080040,Marine Shipping,Industry
+3108004002,Inland Freight Water Transportation,Activity
+3108004003,Port Operator,Activity
+3108004004,Ocean Freight Transportation,Activity
+3108004005,Ocean Passenger Transportation,Activity
+3108004006,Activities Incidental to Marine Transportation,Activity
+3108004007,Sea and Coastal Passenger Water Transport,Activity
+3108004008,Sea and Coastal Freight Water Transport,Activity
+3108005001,Freight Transport Services by Road,Activity
+31080050,Trucking,Industry
+3108006001,Postal and Courier Activities,Activity
+31080060,Integrated Freight & Logistics,Industry
+3108006002,Logistics Support Activities,Activity
+3109001001,Collection and Transport of Non-Hazardous Waste in Source Segregated Fraction...,Activity
+31090010,Waste Management,Industry
+3109001002,Anaerobic Digestion of Bio-Waste,Activity
+3109001003,Composting of Bio-Waste,Activity
+3109001004,Material Recovery from Non-Hazardous Waste,Activity
+3109001005,Landfill Gas Capture and Utilization,Activity
+3109001006,Anaerobic Digestion of Sewage Sludge,Activity
+3109001007,"Collection, Treatment and Disposal of Hazardous Waste",Activity
+3111001001,"Data Processing, Hosting and Related Activities",Activity
+31110010,Information Technology Services,Industry
+3111001002,Data-driven Solutions for GHG Emission Reduction,Activity
+3111001003,Information Technology Consulting and Outsourcing Services,Activity
+3111001099,Other Information Technology Services,Activity
+3111002001,Financial Software,Activity
+31110020,Software - Application,Industry
+3111002002,Communication and Entertainment Software,Activity
+3111002003,Education Software,Activity
+3111002004,Social Platform Software,Activity
+3111002005,Business Productivity and Efficiency Software,Activity
+3111003001,Computer Security Software,Activity
+31110030,Software - Infrastructure,Industry
+3111003002,Operating System Software,Activity
+3111003003,"Website Designers, Developers, and Operators",Activity
+3111003004,Automation and Workflow Software,Activity
+3111003005,Database Software,Activity
+3111003006,Payment and Transaction Services,Activity
+3111003099,Other Software Services,Activity
+3112001001,Communication Equipment Manufacturer,Activity
+31120010,Communication Equipment,Industry
+3112001002,Fiberoptic Cable Manufacturer,Activity
+3112002001,Computer Hardware,Activity
+31120020,Computer Hardware,Industry
+3112003001,Consumer Electronics,Activity
+31120030,Consumer Electronics,Industry
+3112004001,Electronics Component Manufacturer,Activity
+31120040,Electronic Components,Industry
+3112004002,Printed Circuit Board Manufacturer,Activity
+3112005001,Electronic Equipment Distributor,Activity
+31120050,Electronics & Computer Distribution,Industry
+3112005002,Computer and Related Peripheral Distributor,Activity
+3112006001,Scientific & Technical Instruments,Activity
+31120060,Scientific & Technical Instruments,Industry
+3113001001,Semiconductor Equipment & Materials,Activity
+31130010,Semiconductor Equipment & Materials,Industry
+3113002001,Semiconductor Manufacturer,Activity
+31130020,Semiconductors,Industry
+3113002002,Semiconductor Memory Manufacturer,Activity
+3113003001,Solar,Activity
+31130030,Solar,Industry
