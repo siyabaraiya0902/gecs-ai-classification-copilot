@@ -22,3 +22,4 @@ Start the FastAPI backend:
 
 ```bash
 python -m uvicorn main:app --reload
+- Run API Integration.webm for the demo 
