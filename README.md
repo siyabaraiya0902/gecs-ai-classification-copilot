@@ -11,6 +11,7 @@ This project is an AI-powered classification Copilot for GECS-style industry and
 - Returns predicted industry, predicted subindustry, confidence score, routing decision, and top alternatives
 - Uses a GECS taxonomy lookup file to convert codes into readable names
 - Captures analyst feedback for future retraining
+- Run API Integration.webm Raw to view the demo
 
 ## Tech Stack
 
@@ -22,4 +23,5 @@ Start the FastAPI backend:
 
 ```bash
 python -m uvicorn main:app --reload
-- Run API Integration.webm for the demo 
+
+
